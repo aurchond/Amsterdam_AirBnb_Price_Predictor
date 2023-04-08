@@ -1,2 +1,6 @@
 # Amsterdam_AirBnb_Price_Predictor
+
+These days everything is expensive, and travelling is no different. People travelling on a budget are always looking to get the most cost effective rooms so that their stay is both comfortable and affordable. Airbnb allows their listers to price their properties at whatever price they deam appropriate, so listings could be priced higher than their value. We want renters to have full transparency on the listing price to see if they are being ripped off or if it is a reasonable price.
+
+Due to the popularity of Airbnb especially in popular vacation destinations, there are usually hundreds of available listings. It can be a daunting process to go through page after page of available listings to search for the most cost effective option, while still meeting all the customers required needs such as number of bedrooms, bathrooms, location, etc. By providing an easy and accessible way for people to double check that they are getting a good deal on their Airbnb stay, this can save time, eliminate stress, and save people lots of money. Having this verification step available for customers can build trust and reassure them that they are being the most cost effective while travelling.
  
